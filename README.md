@@ -1,4 +1,4 @@
-👋 Greetings, I'm Bhargav, a dedicated novice in programming and a cybersecurity student. Currently navigating the intricacies of coding languages like [list languages], I am committed to mastering the art of cybersecurity to contribute to a secure digital landscape.
+👋 Greetings, I'm Bhargav, a dedicated novice in programming and a cybersecurity student. Currently navigating the intricacies of coding languages like Python and C , I am committed to mastering the art of cybersecurity to contribute to a secure digital landscape.
 
 🔐 Cybersecurity Aspirant: Actively pursuing knowledge in cybersecurity, aiming to enhance digital security through continuous learning.
 
